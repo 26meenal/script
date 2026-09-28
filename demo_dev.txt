@@ -1,5 +1,6 @@
 <<<<<<< HEAD
  This is the new file in dev which needs to be merged in master branch
-=======
-This is the new file in dev which needs to be merged in master branch
->>>>>>> a066d6119dd1bb4c8998a4c332dc3add869393b1
+================================================================================
+
+
+This commit is fine
